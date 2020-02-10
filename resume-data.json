@@ -1,0 +1,353 @@
+{
+    "pagetitle": "Jared Tracy: International Software Developer of Mystery",
+    "header": {
+        "objective":"Work with a team of professionals to construct information technology systems to derive business value for customers",
+        "punchline": "Your opportunity: Hire the best software developer today with boat loads of experience in developing cloud-based apps!",
+        "majorhighlights":[
+            "Software Developer",
+            "Team Leader",
+            "Team Player",
+            "Marketing Experience",
+            "Business Management",
+            "UX/UI Design",
+            "Fun!"
+        ]
+    },
+    "contactinfo": {
+        "headshot_url": "./profile-mug.JPG",
+        "headshot_alt": "Jared's beautiful mug",
+        "name": "Jared Tracy",
+        "address": "Simi Valley, CA 93065",
+        "email": "jaredtracy@gmail.com",
+        "phone": "805.285.2234",
+        "github": "Jaredude"
+    },
+    "skills": {
+        "data": [
+            "Javascript",
+            "jQuery",
+            "DataTables",
+            "React",
+            "React Native",
+            "Bootstrap",
+            "Entity Framework",
+            "MSSQL",
+            "MongoDB",
+            "C#",
+            ".NET",
+            "MVC",
+            "Node.js",
+            "Express",
+            "Azure",
+            "UX",
+            "Git",
+            "Phabricator"
+        ]
+    },
+    "hobbies": {
+        "data": [
+            {
+                "hobby": "Sailing",
+                "icon": "anchor"
+            },
+            {
+                "hobby": "Antiquity Studies",
+                "icon": "book"
+            },
+            {
+                "hobby": "Dog Rescue",
+                "icon": "paw"
+            },
+            {
+                "hobby": "Dancing",
+                "icon": "street-view"
+            },
+            {
+                "hobby": "Creative Writing",
+                "icon": "pencil"
+            },
+            {
+                "hobby": "Yoga",
+                "icon": "recycle"
+            },
+            {
+                "hobby": "Languages",
+                "icon": "language"
+            },
+            {
+                "hobby": "Neuroscience",
+                "icon": "terminal"
+            },
+            {
+                "hobby": "Geology",
+                "icon": "globe"
+            },
+            {
+                "hobby": "Psychology",
+                "icon": "user-md"
+            },
+            {
+                "hobby": "Meditation",
+                "icon": "bell"
+            },
+            {
+                "hobby": "Culinary Arts",
+                "icon": "cutlery"
+            }
+        ]
+    },
+    "experience": {
+        "data": [
+            {
+                "id": "1",
+                "company": "Verde Circle",
+                "joblocation": "Santa Monica, CA",
+                "jobtitle": "General Manager / Lead App Architect",
+                "date_start": "July 2014",
+                "date_end": "Current",
+                "highlights": [
+                    {
+                        "index": 1,
+                        "icon": null,
+                        "description": "Lead team of 9 developers building a small business product / warehouse / fulfillment SaaS platform"
+                    },
+                    {
+                        "index": 2,
+                        "icon": null,
+                        "description": "Lead team of 3 developers building boutique ecommerce order management system integrated with QuickBooks Online"
+                    },
+                    {
+                        "index": 3,
+                        "icon": null,
+                        "description": "Lead team of 6 developers in developing a platform for film and television production cost accounting"
+                    },
+                    {
+                        "index": 4,
+                        "icon": null,
+                        "description": "Developed live spreadsheet-like functionality for Cost Report Worksheet feature of cost accounting system"
+                    },
+                    {
+                        "index": 5,
+                        "icon": null,
+                        "description": "Developed advanced copy/paste functionality for the cost accounting system data entry modules"
+                    },
+                    {
+                        "index": 6,
+                        "icon": null,
+                        "description": "Developed advanced reporting engine for cost accounting system which included dynamic filtering, dynamic report configuration, and export to csv functionality"
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "company": "Steinhausen",
+                "joblocation": "Valencia, CA",
+                "jobtitle": "General Manager",
+                "date_start": "December 2008",
+                "date_end": "July 2016",
+                "highlights": [
+                    {
+                        "index": 1,
+                        "icon": null,
+                        "description": "Developed warehouse and fulfillment software integrated w/multiple shipping services & marketplaces"
+                    },
+                    {
+                        "index": 2,
+                        "icon": null,
+                        "description": "Developed kit/assembly supply chain software allowing JIT assembly and in-house product refurbishment"
+                    },
+                    {
+                        "index": 3,
+                        "icon": null,
+                        "description": "Developed rebranding strategy, marketing/advertising campaign for Steinhausen watch company"
+                    },
+                    {
+                        "index": 4,
+                        "icon": null,
+                        "description": "Designed and developed manufacturing supply chains in China, India, and the United States"
+                    },
+                    {
+                        "index": 5,
+                        "icon": null,
+                        "description": "Migrated company from Windows to MAC; replaced all desktop apps w/cloud-based implementations"
+                    },
+                    {
+                        "index": 6,
+                        "icon": null,
+                        "description": "Designed new products including, watches, money clips, belts and cufflinks"
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "company": "Aroa Marketing",
+                "joblocation": "Sylmar, CA",
+                "jobtitle": "VP Marketing and Catalog Circulation",
+                "date_start": "November 2004",
+                "date_end": "November 2008",
+                "highlights": [
+                    {
+                        "index": 1,
+                        "icon": null,
+                        "description": "Developed RFM model for catalog circulation; increased average order size by 20%; response rates by 10%"
+                    },
+                    {
+                        "index": 2,
+                        "icon": null,
+                        "description": "Lead team in developing product review websites that increased revenue on average by $30,000/month"
+                    },
+                    {
+                        "index": 3,
+                        "icon": null,
+                        "description": "Developed print & digital marketing/advertising campaigns that launched the Gravity Defyer shoe company"
+                    },
+                    {
+                        "index": 4,
+                        "icon": null,
+                        "description": "Developed microsites and landing pages for print and digital advertising campaigns"
+                    },
+                    {
+                        "index": 5,
+                        "icon": null,
+                        "description": "Migrated existing ecommerce website from legacy cgi platform to ASP.NET"
+                    },
+                    {
+                        "index": 6,
+                        "icon": null,
+                        "description": "Scriptwriter for over a dozen infomercials"
+                    },
+                    {
+                        "index": 7,
+                        "icon": null,
+                        "description": "Copywriter for more than 100 catalog products and hundreds of print and digital advertisements"
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "company": "Capita Technologies",
+                "joblocation": "Irvine, CA",
+                "jobtitle": "Database Engineer",
+                "date_start": "May 2003",
+                "date_end": "March 2004",
+                "highlights": [
+                    {
+                        "index": 1,
+                        "icon": null,
+                        "description": "Develop Oracle packages for Los Angeles County AJIS (Automated Jail Information System) interface"
+                    },
+                    {
+                        "index": 2,
+                        "icon": null,
+                        "description": "Develop reports using Crystal reports for DHR (Department of Human Resources – Los Angeles County)"
+                    },
+                    {
+                        "index": 3,
+                        "icon": null,
+                        "description": "Reports and JSP development for JJCPA (Juvenile Justice Crime Prevention Act Tracking System – Los Angeles County) using Oracle and JDeveloper"
+                    },
+                    {
+                        "index": 4,
+                        "icon": null,
+                        "description": "Database design and development for District Attorney Grants (LA County) app using DB2 and MSSQL"
+                    }
+                ]
+            },
+            {
+                "id": "5",
+                "company": "Homestore.com",
+                "joblocation": "Westlake Village, CA",
+                "jobtitle": "Data Warehouse Architect",
+                "date_start": "December 1999",
+                "date_end": "March 2003",
+                "highlights": [
+                    {
+                        "index": 1,
+                        "icon": null,
+                        "description": "Architect of 500GB Teradata real estate trending data model and ETL processes"
+                    },
+                    {
+                        "index": 2,
+                        "icon": null,
+                        "description": "Developed and maintained data warehouse ETL processes using PERL and Teradata utilities (BTEQ, Fastload, Multiload, OLELoad) which handled 30GB of data per day"
+                    },
+                    {
+                        "index": 3,
+                        "icon": null,
+                        "description": "Lead team in building and maintaining MSSQL data marts used to provide statistics to over 100K Realtors"
+                    },
+                    {
+                        "index": 4,
+                        "icon": null,
+                        "description": "Developed OLAP reporting system using MS SQL Analysis Services"
+                    }
+                ]
+            },
+            {
+                "id": "6",
+                "company": "Next Direct, Inc.",
+                "joblocation": "Woodland Hills, CA",
+                "jobtitle": "Software Development Lead",
+                "date_start": "March 1996",
+                "date_end": "December 1999",
+                "highlights": [
+                    {
+                        "index": 1,
+                        "icon": null,
+                        "description": "Creation of a browser-based CRM system using Visual Basic, IIS, and MSSQL"
+                    },
+                    {
+                        "index": 2,
+                        "icon": null,
+                        "description": "Lead team of programmers in developing lead generation applications for mortgage, insurance, real estate, and travel industries using Visual Basic, SQL Server, and IIS"
+                    },
+                    {
+                        "index": 3,
+                        "icon": null,
+                        "description": "DBA of MS SQL database for loanweb.com, 4insurance.com lead generation services"
+                    },
+                    {
+                        "index": 4,
+                        "icon": null,
+                        "description": "Developed email-to-fax BSD UNIX application allowing clients to receive email via fax & OCR fax-to-email"
+                    }
+                ]
+            },
+            {
+                "id": "7",
+                "company": "Other Experience",
+                "joblocation": "My sofa",
+                "jobtitle": "Independent Software Developer",
+                "date_start": "March 1996",
+                "date_end": "present",
+                "highlights": [
+                    {
+                        "index": 1,
+                        "icon": null,
+                        "description": "Develop Nodejs cryptocurrency miner tracking software that connects to 3rd party blockchain API services to gather miner payouts and store and report summary information for tax purposes"
+                    },
+                    {
+                        "index": 2,
+                        "icon": null,
+                        "description": "Develop Nodejs express JWT auth server utilizing MongoDB, including multi-node Docker deployment"
+                    },
+                    {
+                        "index": 3,
+                        "icon": null,
+                        "description": "Co-author of psychic chat VB app allowing psychics to reach a global 1-on-1 chat market via the Internet"
+                    },
+                    {
+                        "index": 4,
+                        "icon": null,
+                        "description": "Developed FoxPro db for ModelsLynk.com search engine which handled bios for over 2000 models & actors"
+                    },
+                    {
+                        "index": 5,
+                        "icon": null,
+                        "description": "Created browser-based interface in VB and IIS allowing real estate agents to edit/update property listings."
+                    }
+                ]
+            }
+        ]
+    }
+}

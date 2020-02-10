@@ -1,0 +1,191 @@
+.dashed {
+    border: 1px; border-width: 1; border-style: dashed;
+}
+body {
+    max-width: 10.5in;
+    font-size: 14px;
+    /* padding: 3px 0px 0px 10px; */
+    margin: 0px;
+}
+.container {
+    padding: 0 0 0 0;
+}
+
+.marmin {
+    margin: 1px;
+}
+.padmin {
+    padding: 0px 1px 0px 1px;
+}
+
+.row {
+    margin: 0 0 0 0;
+}
+
+.header {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.profile {
+    display: flex;
+    flex: 3;
+    justify-content: space-around;
+}
+.headshot {
+    width: 100px;
+    border-radius: 50%;
+    padding-bottom: 10px;
+}
+.contactinfo {
+    text-align: right;
+    line-height: 16px;
+}
+.contactname {
+    font-weight: bold;
+    font-size: 1.5rem;
+    line-height: 1.3;
+}
+.objective {
+    display: flex;
+    flex: 9;
+}
+
+.title {
+    display: flex;
+    flex-direction: row;
+}
+.objectivetitle {
+    font-size: 26px;
+    font-weight: bold;
+}
+.objectivetext {
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 0.9rem;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.objectivesubgroup {
+    display: flex;
+}
+.objectivesubtitle {
+    justify-content: space-around;
+    color: #2B78E4;
+    font-weight: bold;
+    font-size: 0.75rem;
+    padding: 3px 0px 3px 0px;
+}
+.objectivelistgroup {
+    margin: 3px 0px 3px 0px;
+    padding-bottom: 0px;
+    width: 100%;
+}
+.objectivelist {
+    display: flex;
+    font-size: 0.7rem;
+    padding-left: 1px;
+    width: 100%;
+    margin-bottom: 0px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.objectivelist li {
+    list-style-type: square;
+    margin-bottom: 0px;
+}
+
+.breadcrumbgroup {
+    /* margin-top: -10px; */
+    margin-left: -30px;
+    padding-bottom: 10px;
+}
+.breadcrumb {
+    padding: 0px;
+    margin: 0px 0px 0px 10px;
+    background-color: white;
+    font-size: 10px;
+}
+.experiencegroup {
+    padding-top: 7px;
+}
+.experiencetitle {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #007bff;
+    margin-left: -15px;
+}
+.experiencepoints {
+    width: 100%;
+    line-height: 18px;
+    margin-left: -5px;
+}
+.icon {
+    font-size: 100px;
+}
+
+.aside {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.zebra tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.hobbies {
+    font-size: 12px;
+}
+.hobbytitle {
+    padding-left: 7px;
+}
+
+.experiencelist {
+    margin-top: -7px;
+}
+
+.card {
+    transition: all 3s;
+    background: transparent;
+}
+.card:hover {
+    transform: scale(1.03);
+}
+.card-body {
+    padding: 0px;
+    margin: 0px;
+}
+.experiencecard {
+    margin-bottom: 10px;
+    box-shadow: 0.1px 1px 1px 0.1px;
+}
+
+.experience-sub-card:hover {
+    transform: scale(1);
+}
+
+.experience-sub-card {
+    margin-right: 10px;
+    /* margin-bottom: 0px; */
+    height: 100%;
+}
+
+.experience-sub-card .card-header {
+    padding: 3px 0px 3px 7px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 1.05rem;
+}
+
+.experience-sub-card .card-body {
+    padding-left: 7px;
+}
+
+.experience-sub-card .card-title {
+    font-size: 0.80rem;
+    margin-bottom: 0px;
+}
+
+.experience-sub-card .card-text {
+    padding-top: 0px;
+}
