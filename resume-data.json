@@ -1,8 +1,8 @@
 {
     "pagetitle": "Jared Tracy: International Software Developer of Mystery",
     "header": {
-        "objective":"Work with a team of professionals to construct information technology systems to derive business value for customers",
-        "punchline": "Your opportunity: Hire the best software developer today with boat loads of experience in developing cloud-based apps!",
+        "objective":"Work with a team of professionals to construct information technology systems that create value for customers and hopefully make the world a better place.",
+        "punchline": "Your opportunity: Hire an awesome software developer and team leader with boat loads of experience in developing cloud-based platforms!",
         "majorhighlights":[
             "Software Developer",
             "Team Leader",
@@ -31,7 +31,7 @@
             "React Native",
             "Bootstrap",
             "Entity Framework",
-            "MSSQL",
+            "Azure SQL Server",
             "MongoDB",
             "C#",
             ".NET",
@@ -39,9 +39,16 @@
             "Node.js",
             "Express",
             "Azure",
-            "UX",
+            "UX Design",
             "Git",
-            "Phabricator"
+            "REST",
+            "SQL",
+            "Product Design",
+            "AWS",
+            "MySQL",
+            "Agile",
+            "Cloudinary",
+            "AWS Chime"
         ]
     },
     "hobbies": {
@@ -102,39 +109,134 @@
                 "id": "1",
                 "company": "Verde Circle",
                 "joblocation": "Santa Monica, CA",
-                "jobtitle": "General Manager / Lead App Architect",
+                "jobtitle": "Lead App Architect",
                 "date_start": "July 2014",
                 "date_end": "Current",
                 "highlights": [
                     {
                         "index": 1,
                         "icon": null,
-                        "description": "Lead team of 9 developers building a small business product / warehouse / fulfillment SaaS platform"
+                        "description": "Lead team of 3 developers in building a custom Node.js social media CMS, which includes protected streaming media and images along with a robust comments and reactions engine; hosted on AWS"
                     },
                     {
                         "index": 2,
                         "icon": null,
-                        "description": "Lead team of 3 developers building boutique ecommerce order management system integrated with QuickBooks Online"
+                        "description": "Developed React Native mobile app interface for custom CMS social media platform"
                     },
                     {
                         "index": 3,
                         "icon": null,
-                        "description": "Lead team of 6 developers in developing a platform for film and television production cost accounting"
+                        "description": "Lead team of 6 developers in developing an entertainment industry payroll client's SaaS platform for film and television production cost accounting; hosted on Azure"
                     },
                     {
                         "index": 4,
                         "icon": null,
-                        "description": "Developed live spreadsheet-like functionality for Cost Report Worksheet feature of cost accounting system"
+                        "description": "Designed entertainment industry extras digital time card voucher system and developed streamlined time card printing platform"
                     },
                     {
                         "index": 5,
                         "icon": null,
-                        "description": "Developed advanced copy/paste functionality for the cost accounting system data entry modules"
+                        "description": "Developed real-time spreadsheet-like functionality for Cost Report Worksheet feature of cost accounting system; DataTables and jQuery"
                     },
                     {
                         "index": 6,
                         "icon": null,
-                        "description": "Developed advanced reporting engine for cost accounting system which included dynamic filtering, dynamic report configuration, and export to csv functionality"
+                        "description": "Developed advanced copy/paste functionality for cost accounting system data entry modules (vanilla JavaScript)"
+                    },
+                    {
+                        "index": 7,
+                        "icon": null,
+                        "description": "Developed advanced reporting engine for cost accounting system which included dynamic filtering, dynamic report configuration, and export to csv functionality (vanilla JavaScript)"
+                    },
+                    {
+                        "index": 8,
+                        "icon": null,
+                        "description": "Developed several backend platforms and back office integrations with 3rd party systems using Node.js, MongoDB, .NET, Azure SQL Server, and AWS"
+                    },
+                    {
+                        "index": 9,
+                        "icon": null,
+                        "description": "Architect for small business inventory/warehouse/fulfillment management SaaS platform and lead team of 9 developers in C# MVC and jQuery development; hosted on Azure"
+                    },
+                    {
+                        "index": 10,
+                        "icon": null,
+                        "description": "Perform code reviews and develop training programs for all projects and development teams"
+                    },
+                    {
+                        "index": 11,
+                        "icon": null,
+                        "description": "Lead team of 3 developers in developing a small business eCommerce order management system that integrated with QuickBooks Online; hosted on Azure"
+                    },
+                    {
+                        "index": 12,
+                        "icon": null,
+                        "description": "Work with clients on business strategy requirements and UX/UI designs"
+                    },
+                    {
+                        "index": 13,
+                        "icon": null,
+                        "description": "Designed and developed corporate website and website content"
+                    }
+                ]
+            },
+            {
+                "id": "7",
+                "company": "Self Employed / Hobby",
+                "joblocation": "My sofa",
+                "jobtitle": "Independent Software Developer",
+                "date_start": "March 1996",
+                "date_end": "present",
+                "highlights": [
+                    {
+                        "index": 1,
+                        "icon": null,
+                        "description": "Developed Strapi to Cloudinary npm package that providers simple Strapi Admin Panel Media Asset folder management"
+                    },
+                    {
+                        "index": 2,
+                        "icon": null,
+                        "description": "Designing and developing seminar video hosting platform using AWS chime and IVS"
+                    },
+                    {
+                        "index": 3,
+                        "icon": null,
+                        "description": "Designing and developing dev team collaboration and research software suite using AWS chime, React and Electron, and React Native"
+                    },
+                    {
+                        "index": 4,
+                        "icon": null,
+                        "description": "Designing and developing React Native mobile playing-card game engine and UI"
+                    },
+                    {
+                        "index": 5,
+                        "icon": null,
+                        "description": "Developed Node.js cryptocurrency miner tracking software that connects to 3rd party blockchain API services to gather miner payouts and store and report summary information for tax purposes"
+                    },
+                    {
+                        "index": 6,
+                        "icon": null,
+                        "description": "Developed Node.js express JWT auth server utilizing MongoDB, including multi-node Docker deployment"
+                    },
+                    {
+                        "index": 7,
+                        "icon": null,
+                        "description": "Developed simple CMS platform with chat service using Node.js"
+                    },
+                    {
+                        "index": 8,
+                        "icon": null,
+                        "description": "Co-creator of psychic chat VB app allowing psychics to reach a global 1-on-1 chat market via the Internet"
+                    },
+                    {
+                        "index": 9,
+                        "icon": null,
+                        "description": "Developed FoxPro db for ModelsLynk.com search engine which handled bios for over 2000 models & actors"
+                    },
+                    {
+                        "index": 10,
+                        "icon": null,
+                        "description": "Created browser-based interface in VB and IIS allowing real estate agents to edit/update property listings."
                     }
                 ]
             },
@@ -310,41 +412,6 @@
                         "index": 4,
                         "icon": null,
                         "description": "Developed email-to-fax BSD UNIX application allowing clients to receive email via fax & OCR fax-to-email"
-                    }
-                ]
-            },
-            {
-                "id": "7",
-                "company": "Other Experience",
-                "joblocation": "My sofa",
-                "jobtitle": "Independent Software Developer",
-                "date_start": "March 1996",
-                "date_end": "present",
-                "highlights": [
-                    {
-                        "index": 1,
-                        "icon": null,
-                        "description": "Develop Nodejs cryptocurrency miner tracking software that connects to 3rd party blockchain API services to gather miner payouts and store and report summary information for tax purposes"
-                    },
-                    {
-                        "index": 2,
-                        "icon": null,
-                        "description": "Develop Nodejs express JWT auth server utilizing MongoDB, including multi-node Docker deployment"
-                    },
-                    {
-                        "index": 3,
-                        "icon": null,
-                        "description": "Co-author of psychic chat VB app allowing psychics to reach a global 1-on-1 chat market via the Internet"
-                    },
-                    {
-                        "index": 4,
-                        "icon": null,
-                        "description": "Developed FoxPro db for ModelsLynk.com search engine which handled bios for over 2000 models & actors"
-                    },
-                    {
-                        "index": 5,
-                        "icon": null,
-                        "description": "Created browser-based interface in VB and IIS allowing real estate agents to edit/update property listings."
                     }
                 ]
             }

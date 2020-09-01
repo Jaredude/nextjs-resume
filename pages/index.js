@@ -35,8 +35,8 @@ function Index({ resumedata }) {
         <Layout
             header={Header({resumedata: {...resumedata?.header, ...resumedata?.contactinfo}})}
             experience={Experience({experiencelist: resumedata?.experience?.data})}
-            skills={Skills(resumedata?.skills?.data)}
-            hobbies={Hobbies(resumedata?.hobbies?.data)}
+            skills={Skills(resumedata?.skills?.data.sort())}
+            hobbies={Hobbies(resumedata?.hobbies?.data.sort())}
         />
         </>
     )
