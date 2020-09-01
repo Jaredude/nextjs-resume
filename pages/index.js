@@ -1,3 +1,4 @@
+import _, { map } from 'underscore';
 import '../bootstrap.min.css';
 import '../resume.css';
 // import fetch from 'isomorphic-unfetch';
@@ -36,7 +37,7 @@ function Index({ resumedata }) {
             header={Header({resumedata: {...resumedata?.header, ...resumedata?.contactinfo}})}
             experience={Experience({experiencelist: resumedata?.experience?.data})}
             skills={Skills(resumedata?.skills?.data.sort())}
-            hobbies={Hobbies(resumedata?.hobbies?.data.sort())}
+            hobbies={Hobbies(_.sortBy(resumedata?.hobbies?.data, 'hobby'))}
         />
         </>
     )
